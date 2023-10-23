@@ -70,6 +70,7 @@
   }
   .contact-info-container {
     margin: 0;
+    padding-right: 15px;
   }
   .contact-info-container p,
   .nav-links li a {
