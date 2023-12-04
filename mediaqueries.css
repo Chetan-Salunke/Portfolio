@@ -49,7 +49,10 @@
   .about-containers {
     margin-top: 0;
   }
-  .main {
+  .main1 {
+    flex-wrap: wrap;
+  }
+  .main2 {
     flex-wrap: wrap;
   }
   .card {
@@ -112,7 +115,10 @@
   .text-container {
     text-align: justify;
   }
-  .main {
+  .main1 {
+    flex-wrap: wrap;
+  }
+  .main2 {
     flex-wrap: wrap;
   }
   .card {
