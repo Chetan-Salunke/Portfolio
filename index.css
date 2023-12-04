@@ -430,3 +430,63 @@ footer {
 footer p {
   text-align: center;
 }
+
+/* project section css */
+
+.main {
+  /* margin: 2%; */
+  display: flex;
+  justify-content: center;
+}
+
+.card {
+  width: 19%;
+  padding: 20px;
+  display: inline-block;
+  border: 0.5px solid rgb(163, 163, 163);
+  border-radius: 2rem;
+  margin: 2%;
+}
+
+.image img {
+  width: 100%;
+  /* border-top-right-radius: 2rem; */
+  /* border-top-left-radius: 2rem; */
+  border-radius: 0.5rem;
+  width :290px;
+  /* height: 190px; */
+  /* padding: 20px; */
+}
+
+.title {
+  text-align: center;
+  padding: 10px;
+}
+
+h1 {
+  font-size: 20px;
+}
+
+.des {
+  padding: 3px;
+  text-align: center;
+  padding-top: 10px;
+  border-bottom-right-radius: 5px;
+  border-bottom-left-radius: 5px;
+}
+
+button {
+  margin-top: 40px;
+  margin-bottom: 10px;
+  background-color: white;
+  border: 1px solid black;
+  border-radius: 5px;
+  padding: 10px;
+}
+
+button:hover {
+  background-color: black;
+  color: white;
+  transition: .5s;
+  cursor: pointer;
+}
