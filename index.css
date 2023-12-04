@@ -156,6 +156,7 @@ section {
   min-height: fit-content;
 }
 
+
 .section-container {
   display: flex;
 }
@@ -433,8 +434,13 @@ footer p {
 
 /* project section css */
 
-.main {
-  /* margin: 2%; */
+.main1 {
+  display: flex;
+  justify-content: center;
+  margin-bottom: 12vh;
+}
+
+.main2 {
   display: flex;
   justify-content: center;
 }
