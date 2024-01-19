@@ -437,6 +437,12 @@ footer p {
 .main1 {
   display: flex;
   justify-content: center;
+  /* margin-bottom: 12vh; */
+}
+
+.main1s2 {
+  display: flex;
+  justify-content: center;
   margin-bottom: 12vh;
 }
 
@@ -446,6 +452,15 @@ footer p {
 }
 
 .card {
+  width: 19%;
+  padding: 20px;
+  display: inline-block;
+  border: 0.5px solid rgb(163, 163, 163);
+  border-radius: 2rem;
+  margin: 2%;
+}
+
+.cards2 {
   width: 19%;
   padding: 20px;
   display: inline-block;
