@@ -52,6 +52,9 @@
   .main1 {
     flex-wrap: wrap;
   }
+  .main1s2 {
+    flex-wrap: wrap;
+  }
   .main2 {
     flex-wrap: wrap;
   }
@@ -122,6 +125,9 @@
     flex-wrap: wrap;
   }
   .card {
+    width: auto;
+  }
+  .cards2 {
     width: auto;
   }
   .image img {
