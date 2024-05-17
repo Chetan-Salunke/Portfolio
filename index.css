@@ -315,6 +315,14 @@ section {
   margin: auto 0;
 }
 
+.details-container h3{
+  font-size: 16px;
+}
+
+.details-container p{
+  font-size: 14px;
+}
+
 /* EXPERIENCE SECTION */
 
 #experience {
@@ -418,7 +426,7 @@ article .icon {
 }
 
 .email-icon {
-  height: 2.5rem;
+  height: 2rem;
 }
 
 /* FOOTER SECTION */
