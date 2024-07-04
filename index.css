@@ -28,6 +28,10 @@ a,
 
 /* DESKTOP NAV */
 
+#navicon{
+  height: 30px;
+}
+
 nav,
 .nav-links {
   display: flex;
